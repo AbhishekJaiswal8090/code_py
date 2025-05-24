@@ -1,0 +1,4 @@
+2025-05-24 10:08:21 - DEBUG - Program started
+2025-05-24 10:08:21 - INFO - Success: 10 / 2 = 5.0
+2025-05-24 10:08:21 - ERROR - Error: Tried dividing by zero
+2025-05-24 10:08:21 - DEBUG - Program finished
