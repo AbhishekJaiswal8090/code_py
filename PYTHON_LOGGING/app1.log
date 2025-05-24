@@ -1,0 +1,8 @@
+2025-05-24 22:08:19 - DEBUG - Adding 5 =5
+2025-05-24 22:08:19 - DEBUG - Subtracting 1 =1
+2025-05-24 22:08:19 - DEBUG - Multiplying 6 =6
+2025-05-24 22:08:19 - DEBUG - dividing 1.0 =1.0
+2025-05-24 22:09:14 - DEBUG - Adding (2, 3) =5
+2025-05-24 22:09:14 - DEBUG - Subtracting (3, 2) =1
+2025-05-24 22:09:14 - DEBUG - Multiplying (2, 3) =6
+2025-05-24 22:09:14 - DEBUG - dividing (2, 2) =1.0
