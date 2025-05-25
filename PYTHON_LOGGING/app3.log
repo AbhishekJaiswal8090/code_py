@@ -1,0 +1,3 @@
+%(asctime)s-%(levelname)s-%(message)s
+%(asctime)s-%(levelname)s-%(message)s
+2025-05-25 00:42:31,036-INFO-You are trying to add two numbers

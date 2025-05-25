@@ -8,12 +8,9 @@ logging.basicConfig(
     handlers=[
         logging.FileHandler("app1.log"),
         logging.StreamHandler()
-
-
     ]
 )
 logger=logging.getLogger("ArithemeticApp")
-
 def add(a,b):
     result =a+b
     logger.debug(f"Adding {a ,b} ={result}")
@@ -24,7 +21,8 @@ def subtract(a,b):
     return result
 def multiply(a,b):
     result =a*b
-    logger.debug(f"Multiplying {a ,b} ={result}")
+    logger.error(f"Multiplying {a ,b} ={result}")
+    logger.info("WHat the hell did happen here")
     return result
 def divide(a,b):
     try:
