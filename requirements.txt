@@ -1,2 +1,4 @@
 ipykernel
 pandas
+scikit-learn
+bs4
